@@ -3,8 +3,3 @@ I have been in the IT world for over 30 years and have a wide variety of experie
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/richard-saupe) 
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sabadam32&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sabadam32&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sabadam32&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
